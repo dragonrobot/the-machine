@@ -1,2 +1,1 @@
-# the-machine
-The Machine is a computer system built and designed by Harold Finch and Nathan C Ingram for a secret operation within the United States government, known by the project name "Northern Lights".  The Machine analyzes feeds from domestic organizations such as the National Security Agency, and foreign agencies including Interpol to predict terrorist attacks and modify intelligence reports to include "relevant" data that will allow the government to forestall terrorist activity. Combined with data collected from various other sources, including video footage, phone calls (landline, VOIP, mobile), GPS, electronic transactions, e-mail, and social media, it is able to accurately predict violent acts.
+test
